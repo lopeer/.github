@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-🙋‍♀️ Welcome to Lopeer. Lopeer is a DeFi App. 
+🙋‍♀️ Welcome to Lopeer. Lopeer is a DeFi App. \
 🌈 Contribution guidelines - you are welcome to contribute to any of our opensource projects. 
 👩‍💻 
 
